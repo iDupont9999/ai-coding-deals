@@ -3,3 +3,4 @@ name = "ai-coding-deals"
 version = "0.1.0"
 description = "Money-saving guide to AI coding tools: free tiers, discounts, referral credits & open-source alternatives. 省钱指南。"
 requires-python = ">=3.10"
+# keep defaults in sync with the manifest
